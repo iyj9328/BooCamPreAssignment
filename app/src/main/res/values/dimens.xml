@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_eight_dp">8dp</dimen>
+    <dimen name="divider_dip">1dip</dimen>
+    <dimen name="base_sixteen_dp">16dp</dimen>
+    <dimen name="loading_progress_width">25dp</dimen>
+    <dimen name="loading_progress_height">25dp</dimen>
+    <dimen name="loading_textsize">20sp</dimen>
+    <dimen name="toast_textsize">13sp</dimen>
+</resources>

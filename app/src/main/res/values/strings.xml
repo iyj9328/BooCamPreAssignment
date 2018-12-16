@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">부스트캠프 사전과제</string>
+    <string name="list_movie_title">MovieTitle</string>
+    <string name="list_movie_movieopenyear">MovieOpenYear</string>
+    <string name="list_movie_moviedirector">MovieDirector</string>
+    <string name="list_movie_movieactors">MovieActors</string>
+    <string name="button_search">검색</string>
+    <string name="loading_wait">잠시만요..</string>
+    <string name="toast_please_input_title">검색어를 입력하세요</string>
+    <string name="search_no_items">검색결과는 없습니다.</string>
+    <string name="network.notconnected">휴대폰의 네트워크 연결상태를 확인해주세요. \n통신사/와이파이 상태가 안정적이지 않아요..</string>
+    <string name="search.nolist">There is no list anymore.</string>
+    <string name="search.call.fail">Failed to call search</string>
+</resources>
